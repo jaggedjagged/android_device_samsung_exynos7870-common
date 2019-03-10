@@ -32,4 +32,5 @@ TW_HAS_DOWNLOAD_MODE := true
 TW_NO_EXFAT_FUSE := true
 TW_EXCLUDE_SUPERSU := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := "/sys/class/android_usb/android0/f_mass_storage/lun/file"
+TW_USE_TOOLBOX := true
 endif
